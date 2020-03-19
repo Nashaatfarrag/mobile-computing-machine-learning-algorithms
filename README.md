@@ -1,2 +1,2 @@
 # mobile-computing-course
-for faculty course
+machine learning algorithms 
