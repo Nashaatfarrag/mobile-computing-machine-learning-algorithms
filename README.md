@@ -1,2 +1,2 @@
-# mobile-computing-machine-learning-algorithms
- 
+# mobile-computing-course
+for faculty course
